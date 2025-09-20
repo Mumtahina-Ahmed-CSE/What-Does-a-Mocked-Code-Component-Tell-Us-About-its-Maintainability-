@@ -1,0 +1,4 @@
+Age	SLOCStandard	Readability	SimpleReadability	NVAR	NCOMP	Mcclure	McCabe	IndentSTD	MaximumBlockDepth	totalFanOut	Length	MaintainabilityIndex	SATD	Parameters	LocalVariables	ChangeAtMethodAge	NewAdditions	DiffSizes	EditDistances	CriticalEditDistances	TangledWMoveandFileRename	Buggycommiit	PotentiallyBuggycommit	RiskyCommit	Effort	Time	Volume	HalsteadBugs	Difficulty	file
+4426	4	0.5123252868652344	0.8790955295257564	0	0	0	1	1.73	0	1	16.0	127.09062194824219	0	0	0	0	0	0	0	0	0	0	0	0	325.6387	18.09104	59.207035	0.019735679	5.5	isTerminated.json
+4684	4	0.7236365675926208	0.7365252381042239	0	0	0	1	1.73	0	1	20.0	125.5254898071289	0	0	0	0	0	0	0	0	0	0	0	0	560.0	31.11111	80.0	0.026666667	7.0	newHasher.json
+4426	5	0.02398742362856865	0.22600350972808958	0	0	0	1	1.96	0	2	35.0	118.29083251953125	0	2	0	0	0	0	0	0	0	0	0	0	1948.609	108.25606	160.47368	0.053491227	12.142858	awaitTermination.json

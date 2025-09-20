@@ -1,0 +1,140 @@
+
+--- Mocked vs Unmocked for feature: SLOCStandard ---
+Cliff's Delta: -0.0281 (-), p-value: 0.0093
+Size&0.00&100.00&0.00&0.00&0.00\\
+--- Impacted vs Unmocked for feature: SLOCStandard ---
+Cliff's Delta: 0.0958 (+), p-value: 0.0000
+Size&0.00&100.00&0.00&0.00&0.00\\
+--- Mocked vs Impacted for feature: SLOCStandard ---
+Cliff's Delta: -0.1103 (-), p-value: 0.0000
+Size&0.00&100.00&0.00&0.00&0.00\\
+
+--- Mocked vs Unmocked for feature: Readability ---
+Cliff's Delta: 0.2040 (+), p-value: 0.0000
+Readability&0.00&0.00&100.00&0.00&0.00\\
+--- Impacted vs Unmocked for feature: Readability ---
+Cliff's Delta: 0.0360 (+), p-value: 0.0003
+Readability&0.00&100.00&0.00&0.00&0.00\\
+--- Mocked vs Impacted for feature: Readability ---
+Cliff's Delta: 0.1700 (+), p-value: 0.0000
+Readability&0.00&0.00&100.00&0.00&0.00\\
+
+--- Mocked vs Unmocked for feature: SimpleReadability ---
+Cliff's Delta: 0.2442 (+), p-value: 0.0000
+SimpleReadability&0.00&0.00&100.00&0.00&0.00\\
+--- Impacted vs Unmocked for feature: SimpleReadability ---
+Cliff's Delta: 0.0467 (+), p-value: 0.0000
+SimpleReadability&0.00&100.00&0.00&0.00&0.00\\
+--- Mocked vs Impacted for feature: SimpleReadability ---
+Cliff's Delta: 0.1863 (+), p-value: 0.0000
+SimpleReadability&0.00&0.00&100.00&0.00&0.00\\
+
+--- Mocked vs Unmocked for feature: NVAR ---
+Cliff's Delta: 0.1273 (+), p-value: 0.0000
+NVAR&0.00&100.00&0.00&0.00&0.00\\
+--- Impacted vs Unmocked for feature: NVAR ---
+Cliff's Delta: 0.0516 (+), p-value: 0.0000
+NVAR&0.00&100.00&0.00&0.00&0.00\\
+--- Mocked vs Impacted for feature: NVAR ---
+Cliff's Delta: 0.0748 (+), p-value: 0.0000
+NVAR&0.00&100.00&0.00&0.00&0.00\\
+
+--- Mocked vs Unmocked for feature: NCOMP ---
+Cliff's Delta: 0.1303 (+), p-value: 0.0000
+NCOMP&0.00&100.00&0.00&0.00&0.00\\
+--- Impacted vs Unmocked for feature: NCOMP ---
+Cliff's Delta: 0.0540 (+), p-value: 0.0000
+NCOMP&0.00&100.00&0.00&0.00&0.00\\
+--- Mocked vs Impacted for feature: NCOMP ---
+Cliff's Delta: 0.0748 (+), p-value: 0.0000
+NCOMP&0.00&100.00&0.00&0.00&0.00\\
+
+--- Mocked vs Unmocked for feature: Mcclure ---
+Cliff's Delta: 0.1302 (+), p-value: 0.0000
+Mcclure&0.00&100.00&0.00&0.00&0.00\\
+--- Impacted vs Unmocked for feature: Mcclure ---
+Cliff's Delta: 0.0538 (+), p-value: 0.0000
+Mcclure&0.00&100.00&0.00&0.00&0.00\\
+--- Mocked vs Impacted for feature: Mcclure ---
+Cliff's Delta: 0.0751 (+), p-value: 0.0000
+Mcclure&0.00&100.00&0.00&0.00&0.00\\
+
+--- Mocked vs Unmocked for feature: McCabe ---
+Cliff's Delta: 0.1123 (+), p-value: 0.0000
+McCabe&0.00&100.00&0.00&0.00&0.00\\
+--- Impacted vs Unmocked for feature: McCabe ---
+Cliff's Delta: 0.0372 (+), p-value: 0.0000
+McCabe&0.00&100.00&0.00&0.00&0.00\\
+--- Mocked vs Impacted for feature: McCabe ---
+Cliff's Delta: 0.0746 (+), p-value: 0.0000
+McCabe&0.00&100.00&0.00&0.00&0.00\\
+
+--- Mocked vs Unmocked for feature: IndentSTD ---
+Cliff's Delta: 0.2155 (+), p-value: 0.0000
+IndentSTD&0.00&0.00&100.00&0.00&0.00\\
+--- Impacted vs Unmocked for feature: IndentSTD ---
+Cliff's Delta: 0.1199 (+), p-value: 0.0000
+IndentSTD&0.00&100.00&0.00&0.00&0.00\\
+--- Mocked vs Impacted for feature: IndentSTD ---
+Cliff's Delta: 0.0901 (+), p-value: 0.0000
+IndentSTD&0.00&100.00&0.00&0.00&0.00\\
+
+--- Mocked vs Unmocked for feature: MaximumBlockDepth ---
+Cliff's Delta: 0.1302 (+), p-value: 0.0000
+MaximumBlockDepth&0.00&100.00&0.00&0.00&0.00\\
+--- Impacted vs Unmocked for feature: MaximumBlockDepth ---
+Cliff's Delta: 0.0638 (+), p-value: 0.0000
+MaximumBlockDepth&0.00&100.00&0.00&0.00&0.00\\
+--- Mocked vs Impacted for feature: MaximumBlockDepth ---
+Cliff's Delta: 0.0654 (+), p-value: 0.0000
+MaximumBlockDepth&0.00&100.00&0.00&0.00&0.00\\
+
+--- Mocked vs Unmocked for feature: totalFanOut ---
+Cliff's Delta: -0.1686 (-), p-value: 0.0000
+totalFanOut&0.00&0.00&100.00&0.00&0.00\\
+--- Impacted vs Unmocked for feature: totalFanOut ---
+Cliff's Delta: 0.0378 (+), p-value: 0.0001
+totalFanOut&0.00&100.00&0.00&0.00&0.00\\
+--- Mocked vs Impacted for feature: totalFanOut ---
+Cliff's Delta: -0.2040 (-), p-value: 0.0000
+totalFanOut&0.00&0.00&100.00&0.00&0.00\\
+
+--- Mocked vs Unmocked for feature: Length ---
+Cliff's Delta: -0.1339 (-), p-value: 0.0000
+Length&0.00&100.00&0.00&0.00&0.00\\
+--- Impacted vs Unmocked for feature: Length ---
+Cliff's Delta: 0.0302 (+), p-value: 0.0022
+Length&0.00&100.00&0.00&0.00&0.00\\
+--- Mocked vs Impacted for feature: Length ---
+Cliff's Delta: -0.1599 (-), p-value: 0.0000
+Length&0.00&0.00&100.00&0.00&0.00\\
+
+--- Mocked vs Unmocked for feature: MaintainabilityIndex ---
+Cliff's Delta: 0.0689 (+), p-value: 0.0000
+MaintainabilityIndex&0.00&100.00&0.00&0.00&0.00\\
+--- Impacted vs Unmocked for feature: MaintainabilityIndex ---
+Cliff's Delta: -0.0691 (-), p-value: 0.0000
+MaintainabilityIndex&0.00&100.00&0.00&0.00&0.00\\
+--- Mocked vs Impacted for feature: MaintainabilityIndex ---
+Cliff's Delta: 0.1237 (+), p-value: 0.0000
+MaintainabilityIndex&0.00&100.00&0.00&0.00&0.00\\
+
+--- Mocked vs Unmocked for feature: Parameters ---
+Cliff's Delta: 0.1782 (+), p-value: 0.0000
+Parameters&0.00&0.00&100.00&0.00&0.00\\
+--- Impacted vs Unmocked for feature: Parameters ---
+Cliff's Delta: 0.0451 (+), p-value: 0.0000
+Parameters&0.00&100.00&0.00&0.00&0.00\\
+--- Mocked vs Impacted for feature: Parameters ---
+Cliff's Delta: 0.1371 (+), p-value: 0.0000
+Parameters&0.00&100.00&0.00&0.00&0.00\\
+
+--- Mocked vs Unmocked for feature: LocalVariables ---
+Cliff's Delta: -0.0583 (-), p-value: 0.0000
+LocalVariables&0.00&100.00&0.00&0.00&0.00\\
+--- Impacted vs Unmocked for feature: LocalVariables ---
+Cliff's Delta: 0.0323 (+), p-value: 0.0003
+LocalVariables&0.00&100.00&0.00&0.00&0.00\\
+--- Mocked vs Impacted for feature: LocalVariables ---
+Cliff's Delta: -0.0908 (-), p-value: 0.0000
+LocalVariables&0.00&100.00&0.00&0.00&0.00\\
